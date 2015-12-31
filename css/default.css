@@ -117,7 +117,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 #disqus_container {font-size:12px;}
 #disqus_container a.comment{font-size:14px;}
 h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
-.about-link a {margin-right:10px;font-weight:bold;font-style:italic;font-size:13px;color:#E50053}
+.about-link a {margin-right:10px;font-weight:bold;font-style:italic;font-size:13px;color:#FF0000}
 
 
 /**************目录导航**************/
@@ -126,7 +126,7 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 #menuIndex a:hover {text-decoration:none;}
 #menuIndex ul {margin-bottom:10px;}
 #menuIndex ul li{font-size:12px;margin-bottom:5px;word-wrap:break-word;padding-left:10px;}
-#menuIndex ul li.on{background-color:#f5f5f5;}
+#menuIndex ul li.on{background-color:#CCCCCC;}
 #menuIndex li.h1{font-size:14px;font-weight:normal;padding-left:0;margin-bottom:10px;}
 #menuIndex li.h3{padding-left:25px;}
 

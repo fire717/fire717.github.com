@@ -82,10 +82,10 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .blog .aside{
     background-image:url(http://fire15.com/images/left.jpg);
 }
-.opinion .aside{
+.writing .aside{
     background-image:url(http://fire15.com/images/leftw.jpg);
 }
-.project .aside{
+.skill .aside{
     background-image:url(http://fire15.com/images/leftf.jpg)
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
@@ -162,8 +162,8 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
     .index-content .artical-cate { margin-top:50px; }
 
     .blog .aside,
-    .project .aside,
-    .opinion .aside {display:none;background-image:none;}
+    .skill .aside,
+    .writing .aside {display:none;background-image:none;}
 }
 
 @media (max-width: 1020px){

@@ -7,7 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li><a href="/"><span>Blog</span></a></li>
             <li style="text-align:center"><a href="/writing"><span>Writing</span></a></li>
-            <li class="on" style="text-align:right"><a href="/skill"><span>Skill</span></a></li>
+            <li class="on" style="text-align:right"><a href="/coding"><span>Skill</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>

@@ -6,14 +6,14 @@ layout: home
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Living</span></a></li>
-            <li style="text-align:center"><a href="/writing"><span>Writing</span></a></li>
             <li class="on" style="text-align:right"><a href="/coding"><span>Coding</span></a></li>
+            <li style="text-align:center"><a href="/writing"><span>Writing</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.skill %}
+        {% for post in site.categories.coding %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>

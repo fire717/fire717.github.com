@@ -71,7 +71,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     position: fixed;
     top: 0;
     left: 0;
-    width: 20%;
+    width: 24%;
     height: 100%;
     max-width: 500px;
     background:#000;
@@ -88,9 +88,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .skill .aside{
     background-image:url(http://fire15.com/images/leftf.jpg)
 }
-.index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
+.index-content .section { margin-left:25%; padding-top:80px; padding-right:15%; ;}
 
-.index-content .artical-list { width:70%; margin:0 auto; }
+.index-content .artical-list { width:76%; margin:0 auto; }
 .index-content .artical-list li { margin-bottom:40px; }
 .index-content h2 { font-size:20px; margin-bottom:15px; word-break: break-all;}
 .index-content h2 a { color:#444 }

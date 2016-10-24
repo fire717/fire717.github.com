@@ -88,7 +88,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .coding .aside{
     background-image:url(http://fire15.com/images/leftf.jpg)
 }
-.index-content .section { margin-left:25%; padding-top:80px; padding-right:15%; ;}
+.index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; }
 
 .index-content .artical-list { width:76%; margin:0 auto; }
 .index-content .artical-list li { margin-bottom:40px; }
@@ -131,11 +131,11 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 #menuIndex li.h3{padding-left:25px;}
 
 .home-menu { position:fixed; top:15px; left:15px; z-index:5; font-size:0; }
-.home-menu-icon { line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px;  background:#CDC5BF; }
-.home-follow { margin-left:2px; line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px; background:#CDC5BF;  }
+.home-menu-icon { line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px;  background:#8B7D6B; }
+.home-follow { margin-left:2px; line-height:38px; padding:0 8px; display:inline-block; color:#fff; font-size:18px; background:#8B7D6B;  }
 .home-menu-icon:hover,
 .home-follow:hover { color:#ee1d24; text-decoration:none; }
-.home-contact { color:#fff; margin-top:2px; background:#CDC5BF; padding:8px 0 7px; text-align:center; display:none;}
+.home-contact { color:#fff; margin-top:2px; background:#8B7D6B; padding:8px 0 7px; text-align:center; display:none;}
 .home-contact a { width:30px; display:inline-block; }
 .home-contact img { width:18px; }
 

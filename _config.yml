@@ -1,7 +1,5 @@
 auto: true
 
-pygments: true
-paginate: 8
 permalink: /:title
 
 title: Fire's BloG

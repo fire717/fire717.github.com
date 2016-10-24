@@ -79,7 +79,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-size:cover;
     background-position:50% 50%;
 }
-.living .aside{
+.blog .aside{
     background-image:url(http://fire15.com/images/left.jpg);
 }
 .writing .aside{
@@ -92,7 +92,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 
 .index-content .artical-list { width:76%; margin:0 auto; }
 .index-content .artical-list li { margin-bottom:40px; }
-.index-content h2 { font-size:22px; margin-bottom:15px; word-break: break-all;}
+.index-content h2 { font-size:22px; margin-bottom:15px; word-break: break-all;border-bottom: 2px solid #eee;}
 .index-content h2 a { color:#444 }
 .index-content h2 a:hover { color:#ee1d24; text-decoration:none; }
 .index-content .title-desc {color:#999;font-size:15px;line-height:1.6em;}

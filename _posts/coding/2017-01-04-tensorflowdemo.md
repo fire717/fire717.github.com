@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:   tensorflow完整demo(读取单张测试图片方法)
+title:   tensorflow完整demo
 category:   coding
-description: 
+description: 主要介绍给训练好的模型读取单张测试图片来进行测试的方法
 ---
 
 接触tensorflow一段时间了，官方文档给的demo也能跑，但是一直有一个问题，不管是mnist还是cifar10的例子，均是以测试集的准确率为输出，然后就完了。如何实现拿训练好的模型来测试自己找的任意图片，无论是在官方文档还是各大博客都是搜不到的。自己困扰了很久，终于搞出来了。
@@ -12,7 +12,10 @@ description:
 
 
 1.基本机器学习
+
 [完整代码](https://github.com/fire717/machine-learning/blob/master/tensorflow/basic_mnist_demo.py)
+
+
 ````markdown
 #read any size pic
 z = cv2.imread("2.png",0)
@@ -30,7 +33,10 @@ print sess.run(ans,feed_dict={x2:image,})
 
 
 2.mnist卷积神经网络
-https://github.com/fire717/machine-learning/blob/master/tensorflow/mnist_cnn_demo.py
+
+[完整代码](https://github.com/fire717/machine-learning/blob/master/tensorflow/mnist_cnn_demo.py)
+
+
 ````markdown
 z = cv2.imread("2.png",0)
 z = cv2.resize(z,(28,28),interpolation = cv2.INTER_CUBIC)

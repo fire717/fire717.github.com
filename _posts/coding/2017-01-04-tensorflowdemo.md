@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:   tensorflow完整demo
+title:   Tensorflow完整应用demo
 category:   coding
 description: 主要介绍给训练好的模型读取单张测试图片来进行测试的方法
 ---

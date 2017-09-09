@@ -5,15 +5,15 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on"><a href="/"><span>Living</span></a></li>
-            <li style="text-align:center"><a href="/coding"><span>Coding</span></a></li>
+            <li ><a href="/"><span>Living</span></a></li>
+            <li class="on" style="text-align:center"><a href="/coding"><span>Coding</span></a></li>
             <li style="text-align:right"><a href="/writing"><span>Writing</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.living %}
+        {% for post in site.categories.coding %}
             <li>
                 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
                 <div class="title-desc">{{ post.description }}</div>

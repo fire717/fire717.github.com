@@ -5,8 +5,8 @@ layout: home
 <div class="index-content writing">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Living</span></a></li>
-            <li style="text-align:center;"><a href="/coding"><span>Coding</span></a></li>
+            <li><a href="/"><span>Coding</span></a></li>
+            <li style="text-align:center;"><a href="/living"><span>Living</span></a></li>
             <li class="on" style="text-align:right"><a href="/writing"><span>Writing</span></a></li>
         </ul>
 

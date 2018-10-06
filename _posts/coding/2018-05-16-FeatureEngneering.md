@@ -8,7 +8,7 @@ description: 特征工程知识系统梳理，整理自知乎特征工程话题�
 ## 特征工程学习笔记
 > Fire 2018.5
 
-![hotel](http://fire15.com/images/ct/fe.jpg)
+![hotel](https://fire15.com/images/ct/fe.jpg)
 
 ### 1.探索性数据分析（EDA，Exploratory Data Analysis）
 

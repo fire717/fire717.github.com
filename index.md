@@ -25,3 +25,8 @@ layout: home
     </div>
 </div>
     
+<script type="text/javascript">
+    var host = "fire717.github.io";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+</script>
